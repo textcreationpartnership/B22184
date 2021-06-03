@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper received by His Maiesty from the Committee of both Houses, upon the eight of April with His Maiesties gratious message to both Houses in answer to the same.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22184</idno><idno type="EEBO-CITATION">12174345</idno>
+  <idno type="VID">197187</idno>
+  <idno type="EEBO-PROQUEST">2240952600</idno>
+  
+            <idno type="STC">Wing E2118</idno>
+            <idno type="OCLC">12174345</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197187)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E99, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper received by His Maiesty from the Committee of both Houses, upon the eight of April with His Maiesties gratious message to both Houses in answer to the same.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed ... at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The paper is signed (p. [4]) : Northumberland (and 4 others).</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197187:1"/>
+            <pb facs="tcp:197187:1"/>
+            <p>A PAPER RECEIVED BY HIS MAIESTY from the Committee of both HOUSES, upon the eight of <hi>April.</hi>
+            </p>
+            <p>WITH HIS MAIESTIES Gratious Message to both Houses in Answer to the same.</p>
+            <p>Printed by His MAjESTIES Command at <hi>OXFORD,</hi> By LEONARD LICHFIELD, Printer to the <hi>Vniversity.</hi> 1643. <add>Aprill 21</add>
+            </p>
+            <pb facs="tcp:197187:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197187:2"/>
+            <opener>
+               <dateline>
+                  <date>April 8. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y Instructions this day received from both Houses of <hi>Parliament,</hi> We hum<g ref="char:EOLhyphen"/>bly conceive, that we are to acquaint Your <hi>Majesty,</hi> That they have taken into consideration Your <hi>Majesties</hi> An<g ref="char:EOLhyphen"/>swer to their Reasons concerning the Cessation, wherein there are divers expressions which will occasion particular Replies, which at this time they desire to decline, Their wishes and endeavours being earnestly bent upon the obtaining a speedy Peace, for wbich cause they doe not thinke good to consume any more of the time allowed for the Treaty in any farther debates upon the Cessation, concerning which they finde Your <hi>Majesties</hi> Expressions so doubtfull, that it cannot be suddenly or easily resolved, and the remainder of the time for the whole Treaty, being but seven daies, if the Cessation were presently agreed, it would not yeeld any considerable advantage to the Kingdom.</p>
+            <pb facs="tcp:197187:3"/>
+            <p> Wherefore we are required to desire Your Majesty to give a speedy and positive Answer to the first Proposi<g ref="char:EOLhyphen"/>tion concerning the disbanding, That so Your Subjects may not onely have a shadow of Peace, in a short time of Cessation, but the substance of it in such manner as may be a perpetuall blessing to them, by freeing the Kingdom from those miserable effects of War, the effusion of Eng<g ref="char:EOLhyphen"/>lish blood, and desolation of many parts of the Land:</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Northumberland.</item>
+                     <item>Jo. Holland.</item>
+                     <item>Wil. Peirrepoint.</item>
+                     <item>Wil. Armyn.</item>
+                     <item>B. Whitelocke.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:197187:3"/>
+            <head>His MAJESTIES Gracious Message to both Houses, in Answer to the <hi>Foregoing Paper.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F the Committee, according to His Majesties Desire, had had but Power to agree in the wording of Expressions in the Articles of Cessation, His Majesties (which are as cleare as the matter would beare, and as He could make them) had not appeared so doubtfull to any, but that the Cessation might have been suddenly and speedily resolved, and that long before this time. And if the Expressions of both Houses in their Reasons had not necessitated His Majesty in His owne Defence to give such answer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as could not upon those points deliver Truth with<g ref="char:EOLhyphen"/>out some shew of sharpnesse, no expression of that kind in His Majesties Answer had given any Pre<g ref="char:EOLhyphen"/>tence for the rejection of, or refusing so much a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Treat upon the Cessation; Which (though it were at present for no long time;) yet was from the day named by themselves the 25 of <hi>March,</hi> Whereas His Majesty first moved for a Cessation and Treaty, without any Limitation at all in the time of either; and his Majesty was most ready to have enlarged
+<pb facs="tcp:197187:4"/> the time (so that in the meane while the point of Quarters might be so setled, as that his Armys might subsist) and which might have beene (if they had pleased) a very good and promising earnest and forerunner of that great blessing of Peace, for the obtaining of which the wishes and endeavours of all good men being earnestly bent, a farther debate in order to so great a benefit did not deserve to be stiled a consumption of time. And his Majesty can<g ref="char:EOLhyphen"/>not but conceive himselfe to be in a strange condi<g ref="char:EOLhyphen"/>tion, if the doubtfulnesse of expressions, (which must alwaies be whiles the Treaty is at such a Di<g ref="char:EOLhyphen"/>stance, and power is denied to those upon the Place to help to cleare and explaine) or his necessary re<g ref="char:EOLhyphen"/>plying to Charges laid upon him, (that he might not seeme to acknowledge what was so charged) Or the limitation of the time of seven Daies for the Treaty (which was not limited by his Majesty, who ever desired to have avoided that and other limitations, which have given great interruptions to it) should be as well beleeved to be the grounds, as they are made the Arguments of the rejection of that, which (next to Peace it selfe) his Majesty above all things most desires to see agreed and setled, and which his Majesty hopes (if it may be yet agreed on) will give his people such a taste of such a blessing, that after a short time of consideration, and compa<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:197187:4"/> of their severall conditions in War and Peace, and what should move them to suffer so much by a Change, they will not thinke those their Friends that shall force them to it, or be themselves ready to contribute to the renewing of their former mi<g ref="char:EOLhyphen"/>series, without some greater evidence of Necessity then can appeare to them, when they shall have seene (as they shall see, if this Treaty be suffered to proceed) that his Majesty neither askes nor denies any thing, but what not onely according to Law he may, but what in honour and care of his people he is obliged to aske or deny. And this alone (which a very short Cessation would produce) his Majesty esteems a very considerable Advantage to the Kingdome; and therefore cannot but presse again and again, that whatever is thought doubtfull in the Expressions of the Articles may (as in an houre it may well be done) be expounded, and whatso<g ref="char:EOLhyphen"/>ever is excepted at may be debated and concluded, and that Power and Instructions may be given to the Committee to that end, that the miserable effects of War, the effusion of English blood, and desolation of <hi>England</hi> (untill they can be totally taken away) may by this meanes be stayed and in<g ref="char:EOLhyphen"/>terrupted.</p>
+            <p>His <hi>Majestie</hi> supposes, that when the Committee was last required to desire his <hi>Majestie</hi> to give a
+<pb facs="tcp:197187:5"/> speedy and positive Answer to the first Propositi<g ref="char:EOLhyphen"/>on concerning Disbanding, His Answers in that point (to which no Reply hath been made, and which he hopes by this time have given satisfacti<g ref="char:EOLhyphen"/>on) were not transmitted and received, but won<g ref="char:EOLhyphen"/>ders the Houses should presse his <hi>Majesty</hi> for a speedy &amp; positive Answer to the first part of their first Proposition concerning disbanding, when to the second part of the very same Proposition, con<g ref="char:EOLhyphen"/>cerning his Returne to both houses of <hi>Parliament,</hi> they had not given any Power or Instructions to the Committee, so much as to Treat with his <hi>Ma<g ref="char:EOLhyphen"/>jesty▪</hi> And when his <hi>Majesty</hi> (if his desire of Peace and of speeding the Treaty in order to that had not been prevalent with him) might with all man<g ref="char:EOLhyphen"/>ner of justice have delayed to begin to Treat upon one part untill they had been enabled to Treat upon the other; In which point, and for want of which power from them, the onely stop now re<g ref="char:EOLhyphen"/>maines, his <hi>Majesties</hi> Answers to both parts of their first Proposition, being given in, transmitted, and yet remaining unanswered. To which, untill the Houses shall be at leisure to make Answer, that as little delay in this Treaty, as is possible, may be cau<g ref="char:EOLhyphen"/>sed by it, His <hi>Majesty</hi> desires likewise, that the Com<g ref="char:EOLhyphen"/>mittee may be enabled to treat upon the follow<g ref="char:EOLhyphen"/>ing Propositions in their severall orders.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
